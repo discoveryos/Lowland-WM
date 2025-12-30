@@ -191,7 +191,7 @@ def show_help():
 
 def show_version():
     print ME, VERSION
-    print "Copyright (c) 2008        Dana Jansens"
+    print "Copyright (c) 2025        Kevin dan mathew"
     print
 
 if __name__ == "__main__":
