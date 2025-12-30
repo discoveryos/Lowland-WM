@@ -1,4 +1,4 @@
 [GNOME Session]
 Name=GNOME/Lowland fallback (Safe Mode)
-RequiredComponents=openbox;gnome-settings-daemon
+RequiredComponents=lowland;gnome-settings-daemon
 DesktopName=GNOME
